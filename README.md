@@ -12,4 +12,4 @@ Desarrollador de software enfocado en la creación de aplicaciones web y herrami
 
 ## Contacto
 
-Para más información o propuestas de colaboración, contacta: mancebmario@gmail.com
+mancebmario@gmail.com
